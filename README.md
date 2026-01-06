@@ -38,7 +38,7 @@ Total Consumers: 138 surveyed individuals with detailed demographic and behavior
 
 ## Tools used
 -	Power BI (Dashboard & visualization)
--	PostgresSQL(Data Cleaning and Analysis)
+-	PostgreSQL (Aggregation and Analysis)
 
 ## Business Impact
 -	Helps investors identify profitable restaurant opportunities
