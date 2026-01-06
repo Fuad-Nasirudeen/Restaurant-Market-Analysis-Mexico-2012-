@@ -8,7 +8,7 @@ This project analyzes a 2012 consumer survey dataset regarding the restaurant in
 -	Identify demand and supply gaps in the restaurant market
 -	Recommend ideal investment characteristics for new restaurants
 
-## Data Overview
+## Dataset Overview
 The dataset is a multi-table relational database derived from a 2012 consumer survey conducted in Mexico. It captures the intersection of consumer demographics, restaurant features, and subjective quality ratings to provide a 360-degree view of the local hospitality market.
 
 Total Ratings: 1,161 records (Overall, Food, and Service scores).
