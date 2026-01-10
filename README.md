@@ -37,7 +37,6 @@ Total Consumers: 138 surveyed individuals with detailed demographic and behavior
 - Determined the target cuisines and Location 
 
 ## Tools used
--	Power BI (Dashboard & visualization)
 -	PostgreSQL (Aggregation and Analysis)
 
 ## Business Impact
